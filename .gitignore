@@ -4,6 +4,7 @@ logs
 npm-debug.log*
 
 client.js
+firebaseConfig.js
 
 # Runtime data
 pids
