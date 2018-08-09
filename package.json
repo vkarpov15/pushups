@@ -12,7 +12,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "superagent": "3.5.2",
+    "superagent": "~3.8",
     "firebase": "3.7.5",
     "preact": "8.1.0",
     "preact-render-to-string": "3.6.0"
